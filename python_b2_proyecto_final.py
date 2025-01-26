@@ -14,7 +14,7 @@ Original file is located at
 * **Autor**: Yago Lavandeira Amenedo
 * **Correo**: ylavandeira@uoc.edu
 * **Fecha**: 21/01/2025
-* **Salida**: ipynb, predicciones.csv
+* **Salida**: predicciones.csv
 ---
 
 ### **Contexto**:
